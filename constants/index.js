@@ -19,25 +19,25 @@ const navLinks = [
 
 const cocktailLists = [
   {
-    name: "Chapel Hill Shiraz",
+    name: "Fruit Cocktails",
     country: "AU",
     detail: "Battle",
     price: "$10",
   },
   {
-    name: "Caten Malbee",
+    name: "Strawberry Banana Smoothie",
     country: "AU",
     detail: "Battle",
     price: "$49",
   },
   {
-    name: "Rhino Pale Ale",
+    name: "Mango Lassie",
     country: "CA",
     detail: "750 ml",
     price: "$20",
   },
   {
-    name: "Irish Guinness",
+    name: "Lemon Mint Juice",
     country: "IE",
     detail: "600 ml",
     price: "$29",
@@ -46,25 +46,25 @@ const cocktailLists = [
 
 const mockTailLists = [
   {
-    name: "Tropical Bloom",
+    name: "Avocado Shake",
     country: "US",
     detail: "Battle",
     price: "$10",
   },
   {
-    name: "Passionfruit Mint",
+    name: "Tropical Smoothie",
     country: "US",
     detail: "Battle",
     price: "$49",
   },
   {
-    name: "Citrus Glow",
+    name: "Berry Mix Juice",
     country: "CA",
     detail: "750 ml",
     price: "$20",
   },
   {
-    name: "Lavender Fizz",
+    name: "Date Milkshake",
     country: "IE",
     detail: "600 ml",
     price: "$29",
