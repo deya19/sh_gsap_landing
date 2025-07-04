@@ -137,35 +137,35 @@ const socials = [
 const allCocktails = [
   {
     id: 1,
-    name: "Classic Mojito",
+    name: "Lemonade Mint",
     image: "/images/drink1.png",
-    title: "Simple Ingredients, Bold Flavor",
+    title: "Simple lemon and mint juice",
     description:
-      "Made with tequila, lime juice, and orange liqueur, the Margarita is easy to make and full of character. Add a salted rim for the perfect drink on summer nights.",
+      "This refreshing lemon and mint juice is a vibrant, zesty drink made with freshly squeezed lemon juice and aromatic mint leaves. Served in an elegant martini glass, it offers a perfect balance of tartness and cool herbal notes, making it an ideal beverage for hot summer days or as a palate cleanser. Its bright yellow hue and garnish of lemon slice and mint sprig make it visually appealing as well as revitalizing.",
   },
   {
     id: 2,
-    name: "Raspberry Mojito",
+    name: "Strawberry Juice",
     image: "/images/drink2.png",
-    title: "A Zesty Classic That Never Fails",
+    title: "A Fresh strawberry juice",
     description:
-      "The Margarita is a classic that balances tangy lime, smooth tequila, and a touch of sweetness. Shaken, frozen, or on the rocks—it’s always crisp & refreshing.",
+      "Fresh strawberry juice is a naturally sweet and vibrant beverage made from ripe, juicy strawberries. Rich in vitamin C, antioxidants, and a refreshing berry flavor, this juice is both delicious and nutritious. Its bright red color and smooth texture make it an appealing choice for any time of day—whether enjoyed on its own, blended with milk for a creamy twist, or served chilled over ice for a cooling summer treat.",
   },
   {
     id: 3,
-    name: "Violet Breeze",
+    name: "Fruit Cocktail",
     image: "/images/drink3.png",
-    title: "Simple Ingredients, Bold Flavor",
+    title: "Fruit cocktail",
     description:
-      "Made with tequila, lime juice, and orange liqueur, the Margarita is easy to make and full of character. Add a salted rim for the perfect drink on summer nights.",
+      "Fruit cocktail is a colorful and refreshing blend of various fresh fruits, often served in a light syrup or fruit juice. Typically featuring ingredients like pineapple, peaches, grapes, pears, and cherries, this vibrant mix offers a balance of sweet, tangy, and juicy flavors. Packed with vitamins, fiber, and antioxidants, fruit cocktail is not only visually appealing but also a healthy and energizing treat. It can be enjoyed on its own, as a dessert, or served chilled in a glass for a festive and tropical experience.",
   },
   {
     id: 4,
-    name: "Curacao Mojito",
+    name: "Orange Fizz",
     image: "/images/drink4.png",
-    title: "Crafted With Care, Poured With Love",
+    title: "Refreshing orange fizz",
     description:
-      "Each cocktail is made with fresh ingredients and a passion for perfecting every pour, whether you're celebrating or simply relaxing.",
+      "Orange fizz is a sparkling beverage that combines the bright, citrusy flavor of fresh oranges with effervescent bubbles. This refreshing drink is typically made by mixing freshly squeezed orange juice with soda water or sparkling water, creating a light and invigorating experience. Often garnished with a slice of orange or a sprig of mint, orange fizz is perfect for warm days, brunches, or as a delightful non-alcoholic option at parties. Its vibrant color and zesty taste make it a favorite among fruit-based beverages.",
   },
 ];
 
